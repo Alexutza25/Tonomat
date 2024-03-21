@@ -1,0 +1,8 @@
+1 latte 10
+2 cappuccino 5
+3 bigLatte 15
+4 spanishLatte 8
+5 frapuccino 12
+6 americano 11
+7 blackCoffe 16
+8 cinnamonCoffe 20
